@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46871772262",
+    "project_id": "fir-unitydatapersistence",
+    "storage_bucket": "fir-unitydatapersistence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46871772262:android:1bf28ef63d384055e101a7",
+        "android_client_info": {
+          "package_name": "com.Auravision.LeaderBoardsClass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46871772262-utm9ec7fgaa2da66k3ku9rtkflbbq7tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkuVDvz6Jq8iq66YWQlfTZQ99JcMEJ3o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46871772262-utm9ec7fgaa2da66k3ku9rtkflbbq7tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
